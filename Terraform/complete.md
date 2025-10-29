@@ -22,7 +22,7 @@
 22. Sentinal In Terraform
 23. Our pipeline wants to deploy to private ec2 using aws roles how to achieve this?
 24. Life cycle in terraform or nested block
-25. 
+25. what is terraform cloud, null and terraform alias?
 
 
 
